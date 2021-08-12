@@ -1,24 +1,32 @@
-# order-summary-component
+# Frontend Mentor - Order summary component solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Order summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## The challenge
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Users should be able to:
+
+- See hover states for interactive elements
+
+## Links
+
+- Solution URL: [Github Repository](https://github.com/loic-faivre/order-summary-component)
+- Live Site URL: [Github Page](https://loic-faivre.github.io/order-summary-component/#/)
+
+## Built with
+
+- Vue JS 3
+- SCSS
+
+## Author
+
+- Github - [Loic Faivre](https://github.com/loic-faivre)
+- Frontend Mentor - [@loic-faivre](https://www.frontendmentor.io/profile/loic-faivre)
+- Twitter - [@lolof69000](https://twitter.com/lolof69000)
